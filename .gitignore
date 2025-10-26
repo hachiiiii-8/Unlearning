@@ -14,7 +14,6 @@ venv/
 .env.*
 
 # ---- data / models / outputs ----
-data/
 ckpts/
 out/
 logs/
