@@ -1,0 +1,29 @@
+# ---- Python & build ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ---- venv/conda ----
+.venv/
+venv/
+.env
+.env.*
+
+# ---- data / models / outputs ----
+data/
+ckpts/
+out/
+logs/
+saves/
+*.log
+
+# ---- notebooks cache ----
+.ipynb_checkpoints/
+
+# ---- OS cruft ----
+.DS_Store
+Thumbs.db
